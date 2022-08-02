@@ -78,3 +78,6 @@ console.log(div1.childNodes);
 
 console.log(ul1.previousElementSibling);
 console.log(ul1.nextSibling);
+
+// Event Listeners
+
